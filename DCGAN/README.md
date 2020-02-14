@@ -4,7 +4,7 @@ In this lesson, we implement the Deep Convolutional Generative Adversarial Netwo
 
 ![](dcgan.png)
 
-# HOWTO
+# How To
 
 ```
 python main.py
