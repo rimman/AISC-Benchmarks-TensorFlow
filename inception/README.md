@@ -6,7 +6,7 @@ Includes cell dividers for running with IPython!
 
 ![](inception.png)
 
-# HowTO
+# How To
 
 ```
 python main.py
