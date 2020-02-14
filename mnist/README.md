@@ -14,8 +14,6 @@ db = tf.data.Dataset.from_tensor_slices((xs,ys))
 db = db.batch(32).repeat(10)
 ```
 
-<img src="mnist.gif" align="right" width="270" height="270">
-
 Now let's build our network as a **keras.Sequential** model and instantiate a stochastic gradient descent optimizer from **keras.optimizers**.
 
 ```python
